@@ -29,7 +29,7 @@
 <p align="center">
   <img
     height="280em"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-2024&bg_color=000000&color=D4AF37&line=FFD700&point=FFF4B0&area=true&area_color=B8860B&title_color=FFD700&radius=12"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-2024&bg_color=0A0A0A&color=D6B98C&line=FFD700&point=FFF8DC&area=true&area_color=C9A227&title_color=FFD700&radius=16"
     alt="Akshay-2024's Activity Graph"
   />
 </p>
