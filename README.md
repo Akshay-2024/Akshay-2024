@@ -22,7 +22,11 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Akshay-2024">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshay-2024&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Akshay-2024's GitHub Stats" />
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshay-2024&show_icons=true&cache_seconds=7200&bg_color=000000&title_color=FFD700&text_color=D6B98C&icon_color=FFD700&border_color=B8860B&border_radius=10"
+      alt="Akshay-2024's GitHub Stats"
+    />
   </a>
 </p>
 
@@ -33,6 +37,7 @@
     alt="Akshay-2024's Activity Graph"
   />
 </p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
