@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=AKSHAY%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20DEVELOPER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Akshay-2024">
-    
+    <img src="https://komarev.com/ghpvc/?username=Akshay-2024&label=Profile%20views&color=00FFFF&style=flat-square" alt="Akshay-2024's profile views" />
   </a>
 </p>
 
@@ -28,15 +27,18 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Akshay-2024">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshay-2024&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Akshay-2024's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshay-2024&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Akshay-2024's GitHub Stats" />
   </a>
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Akshay-2024&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="AKSHAY S's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Akshay-2024&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="AKSHAY S's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-2024&theme=highcontrast&radius=10" alt="Akshay-2024's Activity Graph" />
 </p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 
 ## 🛠️ Languages & Tools
@@ -115,3 +117,4 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+
