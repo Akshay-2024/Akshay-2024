@@ -109,6 +109,10 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="assets/gold-divider.svg" width="100%" alt="Gold Divider">
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
