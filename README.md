@@ -110,7 +110,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/gold-divider.svg" width="100%" alt="Gold Divider">
+  <img src="https://raw.githubusercontent.com/Akshay-2024/Akshay-2024/main/assets/gold-divider.png" width="100%" alt="Gold Divider" />
 </div>
 
 <p align="center">
