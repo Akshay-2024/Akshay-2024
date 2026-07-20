@@ -27,7 +27,11 @@
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-2024&theme=highcontrast&radius=10" alt="Akshay-2024's Activity Graph" />
+  <img
+    height="280em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-2024&bg_color=000000&color=D4AF37&line=FFD700&point=FFF4B0&area=true&area_color=B8860B&title_color=FFD700&radius=12"
+    alt="Akshay-2024's Activity Graph"
+  />
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
