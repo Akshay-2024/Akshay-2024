@@ -113,6 +113,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay-2024/Akshay-2024/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:FFD700&height=120&section=footer"/>
+</div>
