@@ -109,14 +109,11 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akshay-2024/Akshay-2024/main/assets/gold-divider.png" width="100%" alt="Gold Divider" />
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:FFD700&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:FFD700&height=55&section=footer"/>
 </div>
