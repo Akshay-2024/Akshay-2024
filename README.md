@@ -114,5 +114,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:FFD700&height=10&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:B8860B,100:FFD700&height=50&section=footer"/>
 </div>
