@@ -114,10 +114,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay-2024/Akshay-2024/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Akshay-2024/Akshay-2024/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6E5C00,100:FFD700&height=120&section=footer"/>
-</div>
-
