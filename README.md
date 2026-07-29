@@ -19,7 +19,7 @@
 - 📦 Full-Stack Learning (if you're exploring backend too)
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Akshay-2024">
     <img
