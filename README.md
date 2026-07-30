@@ -30,12 +30,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Akshay-2024&theme=dark&v=2"
-    alt="GitHub Streak"
-  />
-</p>
+![](https://streak-stats.demolab.com?user=Akshay-2024&theme=dark&v=2)
 
 <p align="center">
   <img
