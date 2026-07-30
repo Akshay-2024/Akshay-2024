@@ -32,8 +32,8 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Akshay-2024&theme=transparent&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=D6B98C&currStreakNum=FFD700&sideNums=FFD700&sideLabels=D6B98C&dates=FFFFFF&border=B8860B&stroke=B8860B&hide_border=false"
-    alt="Akshay-2024's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=Akshay-2024&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=D6B98C&sideLabels=D6B98C&dates=FFFFFF&stroke=B8860B&border=B8860B"
+    alt="GitHub Streak"
   />
 </p>
 
