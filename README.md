@@ -32,7 +32,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Akshay-2024&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=D6B98C&sideLabels=D6B98C&dates=FFFFFF&stroke=B8860B&border=B8860B"
+    src="https://streak-stats.demolab.com?user=Akshay-2024&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=D6B98C&sideLabels=D6B98C&dates=FFFFFF&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
