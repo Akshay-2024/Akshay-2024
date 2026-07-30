@@ -29,7 +29,7 @@
     />
   </a>
 </p>
-
+![](https://streak-stats.demolab.com/?user=Akshay-2024&theme=dark&hide_border=false)
 <p align="center">
   <img
     height="280em"
