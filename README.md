@@ -31,16 +31,6 @@
 </p>
 
 
-<p align="center">
-  <img
-    height="280em"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-2024&bg_color=0A0A0A&color=D6B98C&line=FFD700&point=FFF8DC&area=true&area_color=C9A227&title_color=FFD700&radius=16"
-    alt="Akshay-2024's Activity Graph"
-  />
-</p>
-
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
