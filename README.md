@@ -84,7 +84,7 @@
 
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Akshay-2024)
+
 <br/>
 
 ## 🔗 Connect with Me
